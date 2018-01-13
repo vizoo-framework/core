@@ -1,0 +1,8 @@
+{
+  "name": "vizoo",
+  "description": "framework of visual interface front-end",  
+  "authors": [
+    "Wallace Rio <wallrio@gmail.com>"
+  ],
+  "license": "MIT"  
+}
