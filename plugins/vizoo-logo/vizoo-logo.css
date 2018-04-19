@@ -1,2 +1,2 @@
 /* Vizoo - v1.0.0 - http://vizoo.online - Wallace Rio <wallrio@gmail.com> */
-[data-vizoo-logo].margin{transform:scale(.7)}[data-vizoo-logo] .vizoologoWrapper{height:100%}[data-vizoo-logo] .vizoologo{height:100%!important}[data-vizoo-logo].blue .vizoologo{fill:#008af4!important}[data-vizoo-logo].red .vizoologo{fill:red!important}
+[data-vizoo-logo]{display:inline-table}[data-vizoo-logo].margin{transform:scale(.7)}[data-vizoo-logo] .vizoologoWrapper{height:100%}[data-vizoo-logo] .vizoologo{height:100%!important}[data-vizoo-logo].blue .vizoologo{fill:#008af4!important}[data-vizoo-logo].red .vizoologo{fill:red!important}
