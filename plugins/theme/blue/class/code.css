@@ -1,2 +1,5 @@
 /* Vizoo - v1.0.0 - http://vizoo.online - Wallace Rio <wallrio@gmail.com> */
-[data-vizoo-theme=blue] code{display:block;padding:10px;font-size:13px;margin:2px 0 10px 0;background:#eee;border:2px dashed #ccc;white-space:pre-wrap;color:#555;position:relative;overflow:auto;width:300px}[data-vizoo-theme=blue] code.legend{padding:41px 20px 20px}[data-vizoo-theme=blue] code.legend:before{content:"code:";color:#07f;position:absolute;top:0;width:100%;left:1px;padding:10px 10px;z-index:2}[data-vizoo-theme=blue] code pre{position:absolute;margin:-15px;padding:0;display:table;width:100%;height:100%;white-space:pre-wrap}
+/* Vizoo - v1.0.0 - http://vizoo.online - Wallace Rio <wallrio@gmail.com> */
+/* Vizoo - v1.0.0 - http://vizoo.online - Wallace Rio <wallrio@gmail.com> */
+/* Vizoo - v1.0.0 - http://vizoo.online - Wallace Rio <wallrio@gmail.com> */
+[data-vizoo-theme=blue] pre{display:block;width:100%;background:#fff;padding:10px;font-size:13px;margin:2px 0 10px 0;border:2px dashed #ccc;white-space:pre-wrap;color:#555;position:relative;overflow:auto;box-sizing:border-box}[data-vizoo-theme=blue] pre code{position:absolute}[data-vizoo-theme=blue] pre code.legend{padding:41px 20px 20px}[data-vizoo-theme=blue] pre code.legend:before{content:"code:";color:#07f;position:absolute;top:0;width:100%;left:1px;padding:10px 10px;z-index:2}
