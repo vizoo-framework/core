@@ -1,1 +1,1 @@
-/* Vizoo - v0.1 - http://vizoo.online - Wallace Rio <wallrio@gmail.com> */
+/* Vizoo - 0.0.1 - vizoo.online -  Wallace Rio <wallrio@gmail.com> - wallrio.com */

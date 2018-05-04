@@ -1,7 +1,7 @@
 {
   "name": "vizoo",
   "description": "framework to visual interface (front-end)",  
-  "version":"0.1",
+  "version":"0.0.1",
   "authors": [
     "Wallace Rio <wallrio@gmail.com>"
   ],
